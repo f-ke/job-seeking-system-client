@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fa5e3bdd67d054b81df2875e195b03c",
+    "revision": "1932ecdd4250c6336888f35f6b1941b7",
     "url": "/job-seeking-system-client/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/job-seeking-system-client/static/css/2.c1216e66.chunk.css"
   },
   {
-    "revision": "403f68dfd13c99916a10",
+    "revision": "15f532dd6ba8c122f6c2",
     "url": "/job-seeking-system-client/static/css/main.6014307b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/job-seeking-system-client/static/js/2.085c08d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "403f68dfd13c99916a10",
-    "url": "/job-seeking-system-client/static/js/main.eba521f2.chunk.js"
+    "revision": "15f532dd6ba8c122f6c2",
+    "url": "/job-seeking-system-client/static/js/main.d9dbd94d.chunk.js"
   },
   {
     "revision": "c49c9b03e47731ecd8b2",
