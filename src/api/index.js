@@ -2,9 +2,9 @@
 
 //register
 import ajax from './ajax'
-export const reqRegister = (user) =>ajax('https://job-seeking-server.herokuapp.com/register',user,'Post')
+export const reqRegister = (user) =>ajax('/register',user,'Post')
 
-export const reqLogin = ({username, password}) => ajax('https://job-seeking-server.herokuapp.com/login',{username, password},'Post')
+export const reqLogin = ({username, password}) => ajax('/login',{username, password},'Post')
 
 //update
 export const reqUpdateUser = (user) =>ajax('https://job-seeking-server.herokuapp.com/update',user,'Post')
