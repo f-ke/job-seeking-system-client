@@ -35,7 +35,7 @@
     "test": "react-app-rewired test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://job-seeking-server.herokuapp.com/",
+
   "eslintConfig": {
     "extends": "react-app"
   },
