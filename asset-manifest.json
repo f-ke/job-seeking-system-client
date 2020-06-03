@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/job-seeking-system-client/static/css/main.6014307b.chunk.css",
-    "main.js": "/job-seeking-system-client/static/js/main.8f2a49b8.chunk.js",
-    "main.js.map": "/job-seeking-system-client/static/js/main.8f2a49b8.chunk.js.map",
+    "main.js": "/job-seeking-system-client/static/js/main.b95f2c02.chunk.js",
+    "main.js.map": "/job-seeking-system-client/static/js/main.b95f2c02.chunk.js.map",
     "runtime-main.js": "/job-seeking-system-client/static/js/runtime-main.159b1b18.js",
     "runtime-main.js.map": "/job-seeking-system-client/static/js/runtime-main.159b1b18.js.map",
     "static/css/2.c1216e66.chunk.css": "/job-seeking-system-client/static/css/2.c1216e66.chunk.css",
     "static/js/2.085c08d9.chunk.js": "/job-seeking-system-client/static/js/2.085c08d9.chunk.js",
     "static/js/2.085c08d9.chunk.js.map": "/job-seeking-system-client/static/js/2.085c08d9.chunk.js.map",
     "index.html": "/job-seeking-system-client/index.html",
-    "precache-manifest.39f9a26a84f5d8d6d7dfdd5413d0b6af.js": "/job-seeking-system-client/precache-manifest.39f9a26a84f5d8d6d7dfdd5413d0b6af.js",
+    "precache-manifest.e841eef032ec5144f813b46ccb6abd71.js": "/job-seeking-system-client/precache-manifest.e841eef032ec5144f813b46ccb6abd71.js",
     "service-worker.js": "/job-seeking-system-client/service-worker.js",
     "static/css/2.c1216e66.chunk.css.map": "/job-seeking-system-client/static/css/2.c1216e66.chunk.css.map",
     "static/css/main.6014307b.chunk.css.map": "/job-seeking-system-client/static/css/main.6014307b.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.c1216e66.chunk.css",
     "static/js/2.085c08d9.chunk.js",
     "static/css/main.6014307b.chunk.css",
-    "static/js/main.8f2a49b8.chunk.js"
+    "static/js/main.b95f2c02.chunk.js"
   ]
 }
