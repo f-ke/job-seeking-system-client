@@ -22,11 +22,14 @@ const ListItem = List.Item
       password2:"",
       type:"employee"
   }
-  register =()=>{
-      // console.log(this.state)
-      this.props.register(this.state)
+  c
+      register =()=>{
+          // console.log(this.state)
+          this.props.register(this.state)
 
-  }
+      }
+
+
   handleChange = (name, val)=>{
       this.setState({[name]:val})//属性名不是name而是name的值
   }
